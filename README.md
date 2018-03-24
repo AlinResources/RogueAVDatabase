@@ -1,5 +1,7 @@
 # RogueAVDatabase
 This is a Fake Antivirus vault when the users can download and test fake antiviruses.WARNING! Malware Ahead.
+What is contain?
+Rogue Antiviruses,Rogue Antispywares,Rogue Registry Cleaners,Fake Optimizers,Fake Defragmenters,DesktopHIjack,Warnings spywad popups,renos And Many more objects.
 
 # Database project by Alin Tecsan
 
